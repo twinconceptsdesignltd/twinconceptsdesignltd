@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @twinconceptsdesignltd
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning PHP, MySQL and MERN
+- 🌱 I’m currently relearning SQL and exploring NoSQL, React, Nextjs and PWAs
 - 💞️ I’m looking to collaborate on ... not sure yet
 - 📫 How to reach me https://twitter.com/tccdesignltd
 
